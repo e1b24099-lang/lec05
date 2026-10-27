@@ -739,3 +739,15 @@ git push
 res:1	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26
 #1793077782
 git commit -m "リポジトリの初期化"
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26
+#1793077792
+git add -A
+res:128	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26
+#1793077795
+git push 
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26
+#1793077798
+git commit -m "リポジトリの初期化"
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26
+#1793077818
+git branch -m main
