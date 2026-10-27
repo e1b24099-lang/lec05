@@ -724,3 +724,18 @@ git add -A
 res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26
 #1793077665
 git init
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26
+#1793077693
+git add -A
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26
+#1793077704
+git status
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26
+#1793077715
+git commit -m "リポジトリの初期化"
+res:128	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26
+#1793077769
+git push 
+res:1	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26
+#1793077782
+git commit -m "リポジトリの初期化"
