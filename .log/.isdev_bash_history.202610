@@ -1,0 +1,726 @@
+#1791873098
+getenv
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+#1791873123
+ls
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai
+#1791873127
+cd kadai
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai
+#1791873132
+ls
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26
+#1791873136
+cd isdev26/
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26
+#1791873141
+ls
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26
+#1791873182
+git clone git@github.com:B3YasudaIori/lec03.git
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791873198
+cd lec03
+res:1	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791874388
+gradle boootrun
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26
+#1791874545
+ls
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791874549
+cd lec03
+res:130	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791874581
+gradle bootrun
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791874911
+git add -A
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791874944
+git commit -m "Sample3-1の実装"
+res:128	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791875045
+git branch -m sample3-1
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791875059
+git branch 
+res:1	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791875132
+git branch -d sample3-7
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791875138
+git branch -d sample3-1
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791875147
+git branch -d sample3-2
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791875150
+git branch -d sample3-3
+res:1	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791875152
+git branch -d sample3-4
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791875155
+git branch -d sample3-5
+res:1	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791875160
+git branch -d sample3-4
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791875163
+git branch -d sample3-6
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791875171
+git branch -m sample3-1
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791875182
+git branch
+res:1	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791875214
+git commit 
+res:1	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791875242
+git commit -m "sample3-1の実装"
+res:128	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791875265
+git add ^A
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791875268
+git add -A
+res:1	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791875286
+git commit -m "sample3-1の実装"
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791875325
+git status
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791875353
+git add -A
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791875369
+git commit -m "sample3-1の実装"
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791875814
+git push origin "sample3-1"
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791876604
+git branch
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791876635
+git push -u origin sample3-2
+res:127	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791877074
+[200~git push -u origin sample3-3
+res:128	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791877086
+git push -u origin sample3-3~
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec03
+#1791877088
+git push -u origin sample3-3
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792141144
+cd janken/
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792141348
+git branch
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792141781
+git switch lec03-task1
+res:130	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792142196
+gradle bootRun
+res:130	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792142723
+gradle bootRun
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792142889
+git add .
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792142900
+git commit -m "task1: パスワードをbcryptでハッシュ化した値に修正"
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792142928
+git push -u origin lec03-task1
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792144266
+git switch main
+res:1	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792144272
+git pull
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792144281
+git switch lec03-task2
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792144297
+git merge main
+res:130	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792144380
+gradle bootRun
+res:130	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792144466
+gradle bootRun
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792144575
+git fetch
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792144585
+git merge origin/main
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792144712
+grep -n "password(" src/main/java/oit/is/z3252/kaizi/janken/security/JankenAuthConfiguration.java
+res:130	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792144728
+gradle bootRun
+res:130	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792144885
+gradle bootRun
+res:130	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+res:130	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792144980
+gradle bootRun
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792145118
+git add .
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792145122
+git commit -m "task2: エントリーを見出しに変更"
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792145126
+git push -u origin lec03-task2
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792145893
+git branch
+res:130	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792145899
+gradle bootRun
+[Shusseki Start]#1792146740
+[Shusseki End]#1792146760
+[uplog]rsync(log)は成功しました 2026年 10月 16日 金曜日 19:32:45    
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792146740
+shusseki
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+[Shusseki Start]#1792393202
+[Shusseki End]#1792393230
+[uplog]rsync(log)は成功しました 2026年 10月 19日 月曜日 16:00:35    
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+#1792393202
+shusseki
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+#1792395238
+getlocal
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+#1792395249
+getenv
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792472307
+cd lec04
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792472332
+git init
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792472345
+git branch -m main
+res:128	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792472364
+git add ^A
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792472368
+git add -A
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792472395
+git commit -m "lec04登録"
+res:128	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792472449
+git push origin main
+res:1	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792472486
+git push origin main git@github.com:e1b24099-lang/lec04.git
+res:1	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792472504
+git git@github.com:e1b24099-lang/lec04.git
+res:127	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792472511
+git@github.com:e1b24099-lang/lec04.git
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792472542
+git remote add origin git@github.com:e1b24099-lang/lec04.git
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792472571
+git push origin main 
+res:130	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792472625
+gradle bootrun
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792473559
+git branch T3
+res:128	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792473569
+git switch
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792473576
+git switch T3
+res:130	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792473875
+gradle bootrun
+res:130	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792474205
+gradle bootrun
+res:130	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792474305
+gradle bootrun
+res:130	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792474369
+gradle bootrun
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792474453
+git add -A
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792474473
+git commit -m "T3実装完了"
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792474502
+git push origin T3
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792474739
+git switch main
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792474752
+git branch T4
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792474761
+git switch T4
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792474783
+git switch main
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792474793
+git pull origin main
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792474806
+git switch T4
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792474961
+git switch main
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792474975
+git branch -d T4
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792474986
+git branch T4
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792474996
+git switch T4
+res:130	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792475093
+gradle bootrun
+res:130	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792475338
+git add -A
+res:1	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792475357
+git commit -m "T4実装完了"
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792475486
+cd lec04
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792475498
+git add -A
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792475515
+git commit -m "T4実装"
+res:127	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792475527
+[200~以下の3つの認可に伴う処理をSample3AuthConfiguration.javaに実装すること
+res:127	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792475527
+SpringSecurityのフォームを利用する
+res:127	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792475528
+/sample4 で始まるURLへのアクセス時にのみ認証を必要とする
+res:2	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792475528
+ログアウト時にはトップページ (http://localhost:8080/)に戻る
+res:127	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792475529
+編集するファイル
+res:127	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792475529
+Sample3AuthConfiguration.java
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792475530
+[ AC1 ]
+res:2	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792475530
+When: 確認者が http://localhost:8080/ を開き，「sample4-1(DB:SELECT,INSERT)(認証付き)」のリンクをクリックする
+res:127	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792475531
+Then: ログインフォームが表示される
+res:127	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792475531
+Then: 登録済みのユーザIDとパスワードを入力してログインすると，エラーページが表示される
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792475532
+[ AC2 ]
+res:127	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792475533
+Given: 確認者が登録済みのユーザでログインしている
+res:127	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792475535
+When: 確認者がブラウザで http://localhost:8080/logout を開く
+res:2	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792475536
+Then: ログアウト確認画面が表示され(Are you sure…)たあと，ログアウトボタンをクリックするとトップページ（http://localhost:8080/）が表示される
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792475568
+git push origin T4
+res:1	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792485025
+git switvh main
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792485034
+git switch main
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792485047
+git pull origin main
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792485062
+git branch
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792485072
+git pull origin main
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792485078
+git branch
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792485209
+git branch
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792485224
+git pull origin main
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792485232
+git branch
+res:127	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792485389
+gitlocal
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792485399
+getlocal
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/lec04
+#1792485412
+getenv
+[Shusseki Start]#1792485853
+[Shusseki End]#1792485874
+[uplog]rsync(log)は成功しました 2026年 10月 20日 火曜日 17:44:41    
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+#1792485853
+shusseki
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26
+res:128	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26
+#1792513168
+git switch main
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792513180
+cd janken
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792513184
+git switch main
+res:1	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792513194
+git pull
+res:1	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792513205
+git pull
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792513542
+git switch main
+res:1	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792513544
+git pull
+res:1	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792516642
+git pull
+res:1	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792516745
+cd ~/oithomes/isdev/kadai/isdev26/janken
+res:1	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792516750
+git pull
+res:1	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792516767
+git pull main
+res:130	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+res:1	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792516898
+git pull
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792517581
+git pull origin main
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792517754
+git switch -c lec04-task1
+res:130	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792518209
+gradle bootRun
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792518516
+git add .
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792518521
+git commit -m "task1: ほんだのユーザを追加"
+res:129	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792518541
+git push -m origin lec04-task1
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792518560
+git push -u origin lec04-task1
+res:127	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792518937
+[200~git switch -c lec04-task2~
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792518939
+git switch -c lec04-task2
+res:130	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792519767
+gradle bootRun
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792520202
+git add .
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792520208
+git commit -m "task2: DBの設定と初期化を実装"
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792520218
+git push -u origin lec04-task2
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792520525
+git switch main
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792520530
+git pull origin main
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792520540
+git log --oneline -1
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792520885
+git switch -c lec04-task3
+res:130	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792522237
+gradle bootRun
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792522397
+git add .
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792522404
+git commit -m "task3: DBのユーザ一覧をエントリーに表示"
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792522409
+git push -u origin lec04-task3
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792522780
+git switch main
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792522786
+git pull origin main
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792522840
+git switch -c lec04-task4
+res:130	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792522987
+gradle bootRun
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792523068
+git add .
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792523074
+git commit -m "task4: DBの試合結果一覧を表示"
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792523079
+git push -u origin lec04-task4
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792523208
+git switch main
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792523213
+git pull origin main
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792523271
+git switch -c lec04-task5
+res:130	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792523652
+gradle bootRun
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792523754
+git add .
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792523760
+git commit -m "task5: 対戦相手を選んでmatch.htmlへ移動"
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792523765
+git push -u origin lec04-task5
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792523946
+git switch main
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792523950
+git pull origin main
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792524009
+git switch -c lec04-task6
+res:130	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792524195
+gradle bootRun
+res:130	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792524602
+gradle bootRun
+res:130	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792524831
+gradle bootRun
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792525097
+git add .
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792525102
+git commit -m "task6: じゃんけんの結果をDBに登録して表示"
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792525107
+git push -u origin lec04-task6
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792525185
+git switch main
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792525189
+git pull origin main
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/janken
+#1792525193
+git log --oneline -1
+[Shusseki Start]#1792525206
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+#1792525206
+shusseki
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+#1792990786
+pwd
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+#1792990819
+mkdir jdbc
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+#1792990821
+ls
+res:1	pwd:/c/Users/mikiy/oithomes/isdev
+#1792990838
+rm jdbc
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+#1792990912
+ls
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26
+#1792990932
+cd kadai/isdev26
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26
+#1792990952
+mkdir jdbc
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/jdbc
+#1792990959
+cd jdbc/
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/jdbc
+#1792990967
+pwd
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/jdbc
+#1792990987
+getlocal
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/jdbc
+#1792991059
+which javac
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+#1792991123
+which javac 
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+#1792991328
+pwd
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/jdbc
+#1792991357
+cd kadai/isdev26/jdbc
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/jdbc
+#1792991411
+curl -O 'https://jdbc.postgresql.org/download/postgresql-42.5.0.jar'
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/jdbc
+#1792991422
+ls
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/jdbc
+#1792991916
+nano Work41.java
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/jdbc
+#1792991942
+ javac Work41.java
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/jdbc
+#1792991959
+ls
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/jdbc
+#1792991979
+java -classpath 'postgresql-42.5.0.jar;.' Work41
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/jdbc
+#1792992265
+cd ~/kadai/isdev26/jdbc
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/jdbc
+#1792992270
+ls
+[Shusseki Start]#1792992282
+[Shusseki End]#1792992465
+[uplog]rsync(log)は成功しました 2026年 10月 26日 月曜日 14:27:52    
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26/jdbc
+#1792992282
+shusseki
+res:0	pwd:/c/Users/mikiy/oithomes/isdev
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26
+res:128	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26
+#1793077588
+git add -A
+res:0	pwd:/c/Users/mikiy/oithomes/isdev/kadai/isdev26
+#1793077665
+git init
